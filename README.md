@@ -57,3 +57,10 @@ SOLUTION:
 used django-restframework , django-filters to build the REST API with model serializers in views.py
 Added pagination details in settings.py,
 Added query string parameters for date and weather_station.
+
+API Response Screenshots with Pagination and Filtering on Station ID and Date
+![image](https://user-images.githubusercontent.com/104686047/184680784-8cb5f0f9-f170-4338-8e3f-5d309b44ab02.png)
+![image](https://user-images.githubusercontent.com/104686047/184680944-d496456b-c72b-4521-b19d-9728afe7f072.png)
+![image](https://user-images.githubusercontent.com/104686047/184681261-2a205260-9fa3-48c6-b78a-9fbc225fa837.png)
+
+
