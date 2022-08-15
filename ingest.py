@@ -7,6 +7,7 @@ from sqlalchemy.engine import create_engine
 import time
 import logging
 import cx_Oracle
+from sqlalchemy.sql import text
 
 logging.basicConfig(filename="ingest.log", level=logging.INFO)
 BASE_DIR = Path(__file__).resolve().parent
@@ -50,7 +51,7 @@ def load_weather_data():
         except sqlalchemy.exc.IntegrityError:
             logging.info('{} was already processed'.format(f.split("\\")[-1][0:-4]))
         except BaseException as e:
-            logging.info('Not able to connect to database')
+            logging.warning('Not able to connect to database')
         else:
             end_time = time.strftime("%H:%M:%S", time.localtime())
             logging.info('{} file process ended at: {}, Records Inserted:{} '.format(f.split("\\")[-1],
@@ -77,7 +78,7 @@ def load_yield_data():
         try:
             row_count = df.to_sql('yielddata', con=engine, index=False, schema=schema, if_exists='append')
         except sqlalchemy.exc.IntegrityError as e:
-            logging.info('{} was already processed'.format(f.split("\\")[-1][0:-4]))
+            logging.warning('{} was already processed'.format(f.split("\\")[-1][0:-4]))
         except BaseException as e:
             logging.info('Cannot connect to database')
         else:
@@ -86,7 +87,7 @@ def load_yield_data():
                                                                                                    time.localtime()),
                                                                                      row_count))
     logging.info("Yield data Ingestion ended at : {}".format(time.strftime("%H:%M:%S",
-                                                                time.localtime())))
+                                                                           time.localtime())))
 
 
 def load_statistics():
@@ -96,14 +97,23 @@ def load_statistics():
     logging.info("Statistics data Ingestion started at : {}".format(st_time))
     try:
         with engine.connect() as con:
-            query = con.execute('insert into STATISTICS select WEATHER_STATION,'
-                                'extract(year from created_date) yield_year,'
-                                'avg(max_temp)/10  avg_max_temp,avg(min_temp)/10  avg_min_temp,'
-                                'sum(PRECIPITATION)/100  total_precipitation from weatherdata'
-                                ' group by WEATHER_STATION,extract(year from created_date)')
+            query_string = """MERGE INTO STATISTICS D using (select WEATHER_STATION,
+            extract(year from created_date) yield_year,
+            avg(max_temp)/10  avg_max_temp,avg(min_temp)/10  avg_min_temp,
+            sum(PRECIPITATION)/100  total_precipitation from weatherdata 
+            group by WEATHER_STATION,extract(year from created_date)) S 
+            ON (D.WEATHER_STATION=S.WEATHER_STATION and D.yield_year=S.yield_year) 
+            WHEN MATCHED THEN UPDATE SET D.avg_max_temp=S.avg_max_temp,
+            D.avg_min_temp=S.avg_min_temp, D.total_precipitation=S.total_precipitation 
+            WHEN NOT MATCHED THEN  
+            INSERT (D.WEATHER_STATION,D.yield_year,D.avg_max_temp,D.avg_min_temp, 
+            D.total_precipitation) 
+            VALUES(S.WEATHER_STATION,S.yield_year,S.avg_max_temp,S.avg_min_temp, 
+            S.total_precipitation)"""
+            query = con.execute(text(query_string).execution_options(autocommit=True))
             logging.info("Records Loaded to statistics table : {}".format(query.rowcount))
     except sqlalchemy.exc.IntegrityError as e:
-        logging.info('Statistics already processed')
+        logging.warning('Statistics already processed')
     except BaseException as e:
         logging.info('Unable to process the file')
     else:
