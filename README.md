@@ -1,5 +1,5 @@
 # Corteva-Assignment
-Assignment
+
 corteva_agri is my project name  ;   assignment is my app name[Django details]
 Problem 1 - Data Modeling
 -------------------------
