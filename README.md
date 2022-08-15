@@ -1,6 +1,6 @@
 # Corteva-Assignment
 Assignment
-
+corteva_agri is my project name  ;   assignment is my app name[Django details]
 Problem 1 - Data Modeling
 -------------------------
 #Choose a database to use for this coding exercise (SQLite, Postgres, etc.). Design two data models: one to represent the weather data records, and one to represent the yield data records. If you use an ORM, your answer should be in the form of that ORM's data definition format. If you use pure SQL, your answer should be in the form of DDL statements.
