@@ -1,0 +1,343 @@
+INFO:root:Yield data Ingestion started at : 00:02:00
+INFO:root:US_corn_grain_yield.txt file process started at: 00:02:00 
+INFO:root:US_corn_grain_yield.txt file process ended at: 00:02:00, Records Inserted:30 
+INFO:root:Yield data Ingestion ended at : 00:02:00
+INFO:root:Weather data Ingestion started at : 00:02:00
+INFO:root:USC00110072.txt file process started at: 00:02:00 
+INFO:root:USC00110072.txt file process ended at: 00:02:04, Records Inserted:10865 
+INFO:root:USC00110187.txt file process started at: 00:02:04 
+INFO:root:USC00110187.txt file process ended at: 00:02:06, Records Inserted:10407 
+INFO:root:USC00110338.txt file process started at: 00:02:06 
+INFO:root:USC00110338.txt file process ended at: 00:02:10, Records Inserted:10712 
+INFO:root:USC00111280.txt file process started at: 00:02:10 
+INFO:root:USC00111280.txt file process ended at: 00:02:12, Records Inserted:9343 
+INFO:root:USC00111436.txt file process started at: 00:02:12 
+INFO:root:USC00111436.txt file process ended at: 00:02:15, Records Inserted:10744 
+INFO:root:USC00112140.txt file process started at: 00:02:15 
+INFO:root:USC00112140.txt file process ended at: 00:02:18, Records Inserted:10957 
+INFO:root:USC00112193.txt file process started at: 00:02:18 
+INFO:root:USC00112193.txt file process ended at: 00:02:21, Records Inserted:10653 
+INFO:root:USC00112348.txt file process started at: 00:02:21 
+INFO:root:USC00112348.txt file process ended at: 00:02:24, Records Inserted:9681 
+INFO:root:USC00112483.txt file process started at: 00:02:24 
+INFO:root:USC00112483.txt file process ended at: 00:02:27, Records Inserted:10898 
+INFO:root:USC00113335.txt file process started at: 00:02:27 
+INFO:root:USC00113335.txt file process ended at: 00:02:30, Records Inserted:10652 
+INFO:root:USC00113879.txt file process started at: 00:02:30 
+INFO:root:USC00113879.txt file process ended at: 00:02:32, Records Inserted:9074 
+INFO:root:USC00114108.txt file process started at: 00:02:32 
+INFO:root:USC00114108.txt file process ended at: 00:02:35, Records Inserted:10896 
+INFO:root:USC00114198.txt file process started at: 00:02:35 
+INFO:root:USC00114198.txt file process ended at: 00:02:38, Records Inserted:10926 
+INFO:root:USC00114442.txt file process started at: 00:02:38 
+INFO:root:USC00114442.txt file process ended at: 00:02:42, Records Inserted:10957 
+INFO:root:USC00114823.txt file process started at: 00:02:42 
+INFO:root:USC00114823.txt file process ended at: 00:02:45, Records Inserted:10929 
+INFO:root:USC00115079.txt file process started at: 00:02:45 
+INFO:root:USC00115079.txt file process ended at: 00:02:48, Records Inserted:10501 
+INFO:root:USC00115326.txt file process started at: 00:02:48 
+INFO:root:USC00115326.txt file process ended at: 00:02:51, Records Inserted:10077 
+INFO:root:USC00115515.txt file process started at: 00:02:51 
+INFO:root:USC00115515.txt file process ended at: 00:02:52, Records Inserted:6271 
+INFO:root:USC00115712.txt file process started at: 00:02:52 
+INFO:root:USC00115712.txt file process ended at: 00:02:55, Records Inserted:10957 
+INFO:root:USC00115768.txt file process started at: 00:02:55 
+INFO:root:USC00115768.txt file process ended at: 00:02:59, Records Inserted:10745 
+INFO:root:USC00115833.txt file process started at: 00:02:59 
+INFO:root:USC00115833.txt file process ended at: 00:03:02, Records Inserted:10866 
+INFO:root:USC00115901.txt file process started at: 00:03:02 
+INFO:root:USC00115901.txt file process ended at: 00:03:06, Records Inserted:10957 
+INFO:root:USC00115943.txt file process started at: 00:03:06 
+INFO:root:USC00115943.txt file process ended at: 00:03:10, Records Inserted:10957 
+INFO:root:USC00116446.txt file process started at: 00:03:10 
+INFO:root:USC00116446.txt file process ended at: 00:03:14, Records Inserted:10654 
+INFO:root:USC00116526.txt file process started at: 00:03:14 
+INFO:root:USC00116526.txt file process ended at: 00:03:18, Records Inserted:10926 
+INFO:root:USC00116558.txt file process started at: 00:03:18 
+INFO:root:USC00116558.txt file process ended at: 00:03:22, Records Inserted:10804 
+INFO:root:USC00116579.txt file process started at: 00:03:22 
+INFO:root:USC00116579.txt file process ended at: 00:03:25, Records Inserted:10407 
+INFO:root:USC00116610.txt file process started at: 00:03:25 
+INFO:root:USC00116610.txt file process ended at: 00:03:29, Records Inserted:10957 
+INFO:root:USC00116738.txt file process started at: 00:03:29 
+INFO:root:USC00116738.txt file process ended at: 00:03:31, Records Inserted:8126 
+INFO:root:USC00116910.txt file process started at: 00:03:31 
+INFO:root:USC00116910.txt file process ended at: 00:03:34, Records Inserted:10898 
+INFO:root:USC00117551.txt file process started at: 00:03:34 
+INFO:root:USC00117551.txt file process ended at: 00:03:38, Records Inserted:10803 
+INFO:root:USC00118147.txt file process started at: 00:03:38 
+INFO:root:USC00118147.txt file process ended at: 00:03:41, Records Inserted:9896 
+INFO:root:USC00118740.txt file process started at: 00:03:41 
+INFO:root:USC00118740.txt file process ended at: 00:03:45, Records Inserted:10957 
+INFO:root:USC00118916.txt file process started at: 00:03:45 
+INFO:root:USC00118916.txt file process ended at: 00:03:49, Records Inserted:10865 
+INFO:root:USC00119241.txt file process started at: 00:03:49 
+INFO:root:USC00119241.txt file process ended at: 00:03:55, Records Inserted:10869 
+INFO:root:USC00119354.txt file process started at: 00:03:55 
+INFO:root:USC00119354.txt file process ended at: 00:03:59, Records Inserted:10896 
+INFO:root:USC00120177.txt file process started at: 00:03:59 
+INFO:root:USC00120177.txt file process ended at: 00:04:03, Records Inserted:10837 
+INFO:root:USC00120200.txt file process started at: 00:04:03 
+INFO:root:USC00120200.txt file process ended at: 00:04:07, Records Inserted:10927 
+INFO:root:USC00120676.txt file process started at: 00:04:07 
+INFO:root:USC00120676.txt file process ended at: 00:04:11, Records Inserted:10652 
+INFO:root:USC00120784.txt file process started at: 00:04:11 
+INFO:root:USC00120784.txt file process ended at: 00:04:15, Records Inserted:10897 
+INFO:root:USC00121030.txt file process started at: 00:04:15 
+INFO:root:USC00121030.txt file process ended at: 00:04:18, Records Inserted:10135 
+INFO:root:USC00121229.txt file process started at: 00:04:18 
+INFO:root:USC00121229.txt file process ended at: 00:04:19, Records Inserted:6087 
+INFO:root:USC00121425.txt file process started at: 00:04:19 
+INFO:root:USC00121425.txt file process ended at: 00:04:21, Records Inserted:5811 
+INFO:root:USC00121747.txt file process started at: 00:04:21 
+INFO:root:USC00121747.txt file process ended at: 00:04:25, Records Inserted:10957 
+INFO:root:USC00121873.txt file process started at: 00:04:25 
+INFO:root:USC00121873.txt file process ended at: 00:04:28, Records Inserted:10742 
+INFO:root:USC00122149.txt file process started at: 00:04:28 
+INFO:root:USC00122149.txt file process ended at: 00:04:31, Records Inserted:9554 
+INFO:root:USC00123418.txt file process started at: 00:04:31 
+INFO:root:USC00123418.txt file process ended at: 00:04:35, Records Inserted:10957 
+INFO:root:USC00123513.txt file process started at: 00:04:35 
+INFO:root:USC00123513.txt file process ended at: 00:04:38, Records Inserted:10347 
+INFO:root:USC00123527.txt file process started at: 00:04:38 
+INFO:root:USC00123527.txt file process ended at: 00:04:41, Records Inserted:10896 
+INFO:root:USC00124008.txt file process started at: 00:04:41 
+INFO:root:USC00124008.txt file process ended at: 00:04:43, Records Inserted:5476 
+INFO:root:USC00124181.txt file process started at: 00:04:43 
+INFO:root:USC00124181.txt file process ended at: 00:04:46, Records Inserted:10681 
+INFO:root:USC00124837.txt file process started at: 00:04:46 
+INFO:root:USC00124837.txt file process ended at: 00:04:50, Records Inserted:10866 
+INFO:root:USC00125237.txt file process started at: 00:04:50 
+INFO:root:USC00125237.txt file process ended at: 00:04:53, Records Inserted:10865 
+INFO:root:USC00125337.txt file process started at: 00:04:53 
+INFO:root:USC00125337.txt file process ended at: 00:04:57, Records Inserted:10926 
+INFO:root:USC00126001.txt file process started at: 00:04:57 
+INFO:root:USC00126001.txt file process ended at: 00:05:00, Records Inserted:10562 
+INFO:root:USC00126580.txt file process started at: 00:05:00 
+INFO:root:USC00126580.txt file process ended at: 00:05:04, Records Inserted:10899 
+INFO:root:USC00126705.txt file process started at: 00:05:04 
+INFO:root:USC00126705.txt file process ended at: 00:05:08, Records Inserted:10598 
+INFO:root:USC00127125.txt file process started at: 00:05:08 
+INFO:root:USC00127125.txt file process ended at: 00:05:12, Records Inserted:10804 
+INFO:root:USC00127298.txt file process started at: 00:05:12 
+INFO:root:USC00127298.txt file process ended at: 00:05:15, Records Inserted:10957 
+INFO:root:USC00127482.txt file process started at: 00:05:15 
+INFO:root:USC00127482.txt file process ended at: 00:05:18, Records Inserted:10957 
+INFO:root:USC00127522.txt file process started at: 00:05:18 
+INFO:root:USC00127522.txt file process ended at: 00:05:22, Records Inserted:10926 
+INFO:root:USC00127646.txt file process started at: 00:05:22 
+INFO:root:USC00127646.txt file process ended at: 00:05:25, Records Inserted:10957 
+INFO:root:USC00127755.txt file process started at: 00:05:25 
+INFO:root:USC00127755.txt file process ended at: 00:05:27, Records Inserted:8467 
+INFO:root:USC00127875.txt file process started at: 00:05:27 
+INFO:root:USC00127875.txt file process ended at: 00:05:29, Records Inserted:8219 
+INFO:root:USC00127935.txt file process started at: 00:05:29 
+INFO:root:USC00127935.txt file process ended at: 00:05:32, Records Inserted:10380 
+INFO:root:USC00128036.txt file process started at: 00:05:32 
+INFO:root:USC00128036.txt file process ended at: 00:05:36, Records Inserted:10835 
+INFO:root:USC00129080.txt file process started at: 00:05:36 
+INFO:root:USC00129080.txt file process ended at: 00:05:38, Records Inserted:7609 
+INFO:root:USC00129113.txt file process started at: 00:05:38 
+INFO:root:USC00129113.txt file process ended at: 00:05:41, Records Inserted:10927 
+INFO:root:USC00129253.txt file process started at: 00:05:41 
+INFO:root:USC00129253.txt file process ended at: 00:05:45, Records Inserted:10468 
+INFO:root:USC00129511.txt file process started at: 00:05:45 
+INFO:root:USC00129511.txt file process ended at: 00:05:46, Records Inserted:6849 
+INFO:root:USC00129557.txt file process started at: 00:05:46 
+INFO:root:USC00129557.txt file process ended at: 00:05:50, Records Inserted:10957 
+INFO:root:USC00129670.txt file process started at: 00:05:50 
+INFO:root:USC00129670.txt file process ended at: 00:05:54, Records Inserted:10957 
+INFO:root:USC00130112.txt file process started at: 00:05:54 
+INFO:root:USC00130112.txt file process ended at: 00:05:57, Records Inserted:10806 
+INFO:root:USC00130133.txt file process started at: 00:05:57 
+INFO:root:USC00130133.txt file process ended at: 00:06:01, Records Inserted:10957 
+INFO:root:USC00130600.txt file process started at: 00:06:01 
+INFO:root:USC00130600.txt file process ended at: 00:06:05, Records Inserted:10928 
+INFO:root:USC00131402.txt file process started at: 00:06:05 
+INFO:root:USC00131402.txt file process ended at: 00:06:08, Records Inserted:10957 
+INFO:root:USC00131533.txt file process started at: 00:06:08 
+INFO:root:USC00131533.txt file process ended at: 00:06:12, Records Inserted:10957 
+INFO:root:USC00131635.txt file process started at: 00:06:12 
+INFO:root:USC00131635.txt file process ended at: 00:06:16, Records Inserted:10957 
+INFO:root:USC00132724.txt file process started at: 00:06:16 
+INFO:root:USC00132724.txt file process ended at: 00:06:20, Records Inserted:10836 
+INFO:root:USC00132789.txt file process started at: 00:06:20 
+INFO:root:USC00132789.txt file process ended at: 00:06:23, Records Inserted:10957 
+INFO:root:USC00132864.txt file process started at: 00:06:23 
+INFO:root:USC00132864.txt file process ended at: 00:06:27, Records Inserted:10957 
+INFO:root:USC00132977.txt file process started at: 00:06:27 
+INFO:root:USC00132977.txt file process ended at: 00:06:31, Records Inserted:10957 
+INFO:root:USC00132999.txt file process started at: 00:06:31 
+INFO:root:USC00132999.txt file process ended at: 00:06:35, Records Inserted:10804 
+INFO:root:USC00134063.txt file process started at: 00:06:35 
+INFO:root:USC00134063.txt file process ended at: 00:06:39, Records Inserted:10714 
+INFO:root:USC00134142.txt file process started at: 00:06:39 
+INFO:root:USC00134142.txt file process ended at: 00:06:43, Records Inserted:10807 
+INFO:root:USC00134735.txt file process started at: 00:06:43 
+INFO:root:USC00134735.txt file process ended at: 00:06:47, Records Inserted:10928 
+INFO:root:USC00134894.txt file process started at: 00:06:47 
+INFO:root:USC00134894.txt file process ended at: 00:06:51, Records Inserted:10867 
+INFO:root:USC00135769.txt file process started at: 00:06:51 
+INFO:root:USC00135769.txt file process ended at: 00:06:55, Records Inserted:10833 
+INFO:root:USC00135796.txt file process started at: 00:06:55 
+INFO:root:USC00135796.txt file process ended at: 00:06:59, Records Inserted:10957 
+INFO:root:USC00135952.txt file process started at: 00:06:59 
+INFO:root:USC00135952.txt file process ended at: 00:07:03, Records Inserted:10899 
+INFO:root:USC00137147.txt file process started at: 00:07:03 
+INFO:root:USC00137147.txt file process ended at: 00:07:06, Records Inserted:10957 
+INFO:root:USC00137161.txt file process started at: 00:07:06 
+INFO:root:USC00137161.txt file process ended at: 00:07:10, Records Inserted:10957 
+INFO:root:USC00137979.txt file process started at: 00:07:10 
+INFO:root:USC00137979.txt file process ended at: 00:07:14, Records Inserted:10926 
+INFO:root:USC00138296.txt file process started at: 00:07:14 
+INFO:root:USC00138296.txt file process ended at: 00:07:18, Records Inserted:10837 
+INFO:root:USC00138688.txt file process started at: 00:07:18 
+INFO:root:USC00138688.txt file process ended at: 00:07:22, Records Inserted:10957 
+INFO:root:USC00250070.txt file process started at: 00:07:22 
+INFO:root:USC00250070.txt file process ended at: 00:07:24, Records Inserted:8918 
+INFO:root:USC00250130.txt file process started at: 00:07:24 
+INFO:root:USC00250130.txt file process ended at: 00:07:27, Records Inserted:9587 
+INFO:root:USC00250375.txt file process started at: 00:07:27 
+INFO:root:USC00250375.txt file process ended at: 00:07:31, Records Inserted:10835 
+INFO:root:USC00250420.txt file process started at: 00:07:31 
+INFO:root:USC00250420.txt file process ended at: 00:07:34, Records Inserted:10379 
+INFO:root:USC00250435.txt file process started at: 00:07:34 
+INFO:root:USC00250435.txt file process ended at: 00:07:38, Records Inserted:10957 
+INFO:root:USC00250622.txt file process started at: 00:07:38 
+INFO:root:USC00250622.txt file process ended at: 00:07:42, Records Inserted:10896 
+INFO:root:USC00250640.txt file process started at: 00:07:42 
+INFO:root:USC00250640.txt file process ended at: 00:07:46, Records Inserted:10957 
+INFO:root:USC00251145.txt file process started at: 00:07:46 
+INFO:root:USC00251145.txt file process ended at: 00:07:50, Records Inserted:10836 
+INFO:root:USC00251200.txt file process started at: 00:07:50 
+INFO:root:USC00251200.txt file process ended at: 00:07:53, Records Inserted:10805 
+INFO:root:USC00252020.txt file process started at: 00:07:53 
+INFO:root:USC00252020.txt file process ended at: 00:07:56, Records Inserted:10746 
+INFO:root:USC00252100.txt file process started at: 00:07:56 
+INFO:root:USC00252100.txt file process ended at: 00:08:00, Records Inserted:10713 
+INFO:root:USC00252205.txt file process started at: 00:08:00 
+INFO:root:USC00252205.txt file process ended at: 00:08:04, Records Inserted:10926 
+INFO:root:USC00252820.txt file process started at: 00:08:04 
+INFO:root:USC00252820.txt file process ended at: 00:08:08, Records Inserted:10896 
+INFO:root:USC00252840.txt file process started at: 00:08:08 
+INFO:root:USC00252840.txt file process ended at: 00:08:11, Records Inserted:9771 
+INFO:root:USC00253035.txt file process started at: 00:08:11 
+INFO:root:USC00253035.txt file process ended at: 00:08:12, Records Inserted:2069 
+INFO:root:USC00253175.txt file process started at: 00:08:12 
+INFO:root:USC00253175.txt file process ended at: 00:08:16, Records Inserted:10957 
+INFO:root:USC00253185.txt file process started at: 00:08:16 
+INFO:root:USC00253185.txt file process ended at: 00:08:20, Records Inserted:10957 
+INFO:root:USC00253365.txt file process started at: 00:08:20 
+INFO:root:USC00253365.txt file process ended at: 00:08:23, Records Inserted:10926 
+INFO:root:USC00253615.txt file process started at: 00:08:23 
+INFO:root:USC00253615.txt file process ended at: 00:08:27, Records Inserted:10927 
+INFO:root:USC00253630.txt file process started at: 00:08:27 
+INFO:root:USC00253630.txt file process ended at: 00:08:31, Records Inserted:10927 
+INFO:root:USC00253660.txt file process started at: 00:08:31 
+INFO:root:USC00253660.txt file process ended at: 00:08:35, Records Inserted:10896 
+INFO:root:USC00253715.txt file process started at: 00:08:35 
+INFO:root:USC00253715.txt file process ended at: 00:08:37, Records Inserted:8521 
+INFO:root:USC00253735.txt file process started at: 00:08:37 
+INFO:root:USC00253735.txt file process ended at: 00:08:41, Records Inserted:10868 
+INFO:root:USC00253910.txt file process started at: 00:08:41 
+INFO:root:USC00253910.txt file process ended at: 00:08:45, Records Inserted:10957 
+INFO:root:USC00254110.txt file process started at: 00:08:45 
+INFO:root:USC00254110.txt file process ended at: 00:08:48, Records Inserted:10683 
+INFO:root:USC00254440.txt file process started at: 00:08:48 
+INFO:root:USC00254440.txt file process ended at: 00:08:52, Records Inserted:10866 
+INFO:root:USC00254900.txt file process started at: 00:08:52 
+INFO:root:USC00254900.txt file process ended at: 00:08:56, Records Inserted:10927 
+INFO:root:USC00254985.txt file process started at: 00:08:56 
+INFO:root:USC00254985.txt file process ended at: 00:08:59, Records Inserted:9861 
+INFO:root:USC00255080.txt file process started at: 00:08:59 
+INFO:root:USC00255080.txt file process ended at: 00:09:02, Records Inserted:9556 
+INFO:root:USC00255310.txt file process started at: 00:09:02 
+INFO:root:USC00255310.txt file process ended at: 00:09:05, Records Inserted:10926 
+INFO:root:USC00255470.txt file process started at: 00:09:05 
+INFO:root:USC00255470.txt file process ended at: 00:09:08, Records Inserted:8489 
+INFO:root:USC00255565.txt file process started at: 00:09:08 
+INFO:root:USC00255565.txt file process ended at: 00:09:12, Records Inserted:10957 
+INFO:root:USC00256040.txt file process started at: 00:09:12 
+INFO:root:USC00256040.txt file process ended at: 00:09:14, Records Inserted:9009 
+INFO:root:USC00256135.txt file process started at: 00:09:14 
+INFO:root:USC00256135.txt file process ended at: 00:09:18, Records Inserted:10957 
+INFO:root:USC00256570.txt file process started at: 00:09:18 
+INFO:root:USC00256570.txt file process ended at: 00:09:21, Records Inserted:10836 
+INFO:root:USC00256970.txt file process started at: 00:09:21 
+INFO:root:USC00256970.txt file process ended at: 00:09:24, Records Inserted:10017 
+INFO:root:USC00257070.txt file process started at: 00:09:24 
+INFO:root:USC00257070.txt file process ended at: 00:09:28, Records Inserted:10926 
+INFO:root:USC00257515.txt file process started at: 00:09:28 
+INFO:root:USC00257515.txt file process ended at: 00:09:31, Records Inserted:10075 
+INFO:root:USC00257715.txt file process started at: 00:09:31 
+INFO:root:USC00257715.txt file process ended at: 00:09:35, Records Inserted:10957 
+INFO:root:USC00258133.txt file process started at: 00:09:35 
+INFO:root:USC00258133.txt file process ended at: 00:09:38, Records Inserted:9225 
+INFO:root:USC00258395.txt file process started at: 00:09:38 
+INFO:root:USC00258395.txt file process ended at: 00:09:43, Records Inserted:10957 
+INFO:root:USC00258465.txt file process started at: 00:09:43 
+INFO:root:USC00258465.txt file process ended at: 00:09:46, Records Inserted:10684 
+INFO:root:USC00258480.txt file process started at: 00:09:46 
+INFO:root:USC00258480.txt file process ended at: 00:09:50, Records Inserted:10808 
+INFO:root:USC00258915.txt file process started at: 00:09:50 
+INFO:root:USC00258915.txt file process ended at: 00:09:54, Records Inserted:10957 
+INFO:root:USC00259090.txt file process started at: 00:09:54 
+INFO:root:USC00259090.txt file process ended at: 00:09:56, Records Inserted:9374 
+INFO:root:USC00259510.txt file process started at: 00:09:56 
+INFO:root:USC00259510.txt file process ended at: 00:09:59, Records Inserted:8735 
+INFO:root:USC00331072.txt file process started at: 00:09:59 
+INFO:root:USC00331072.txt file process ended at: 00:10:03, Records Inserted:10957 
+INFO:root:USC00331152.txt file process started at: 00:10:03 
+INFO:root:USC00331152.txt file process ended at: 00:10:05, Records Inserted:8886 
+INFO:root:USC00331541.txt file process started at: 00:10:05 
+INFO:root:USC00331541.txt file process ended at: 00:10:09, Records Inserted:10957 
+INFO:root:USC00331592.txt file process started at: 00:10:09 
+INFO:root:USC00331592.txt file process ended at: 00:10:13, Records Inserted:10957 
+INFO:root:USC00331890.txt file process started at: 00:10:13 
+INFO:root:USC00331890.txt file process ended at: 00:10:17, Records Inserted:10772 
+INFO:root:USC00332098.txt file process started at: 00:10:17 
+INFO:root:USC00332098.txt file process ended at: 00:10:20, Records Inserted:10927 
+INFO:root:USC00332119.txt file process started at: 00:10:20 
+INFO:root:USC00332119.txt file process ended at: 00:10:22, Records Inserted:5722 
+INFO:root:USC00332791.txt file process started at: 00:10:22 
+INFO:root:USC00332791.txt file process ended at: 00:10:26, Records Inserted:10957 
+INFO:root:USC00333375.txt file process started at: 00:10:26 
+INFO:root:USC00333375.txt file process ended at: 00:10:29, Records Inserted:10926 
+INFO:root:USC00333758.txt file process started at: 00:10:29 
+INFO:root:USC00333758.txt file process ended at: 00:10:33, Records Inserted:10712 
+INFO:root:USC00333780.txt file process started at: 00:10:33 
+INFO:root:USC00333780.txt file process ended at: 00:10:36, Records Inserted:10927 
+INFO:root:USC00334189.txt file process started at: 00:10:36 
+INFO:root:USC00334189.txt file process ended at: 00:10:40, Records Inserted:10834 
+INFO:root:USC00335041.txt file process started at: 00:10:40 
+INFO:root:USC00335041.txt file process ended at: 00:10:44, Records Inserted:10896 
+INFO:root:USC00335297.txt file process started at: 00:10:44 
+INFO:root:USC00335297.txt file process ended at: 00:10:47, Records Inserted:9557 
+INFO:root:USC00335315.txt file process started at: 00:10:47 
+INFO:root:USC00335315.txt file process ended at: 00:10:50, Records Inserted:9768 
+INFO:root:USC00336118.txt file process started at: 00:10:50 
+INFO:root:USC00336118.txt file process ended at: 00:10:55, Records Inserted:10957 
+INFO:root:USC00336196.txt file process started at: 00:10:55 
+INFO:root:USC00336196.txt file process ended at: 00:10:58, Records Inserted:10957 
+INFO:root:USC00336600.txt file process started at: 00:10:58 
+INFO:root:USC00336600.txt file process ended at: 00:11:02, Records Inserted:10561 
+INFO:root:USC00336781.txt file process started at: 00:11:02 
+INFO:root:USC00336781.txt file process ended at: 00:11:05, Records Inserted:10927 
+INFO:root:USC00338313.txt file process started at: 00:11:05 
+INFO:root:USC00338313.txt file process ended at: 00:11:08, Records Inserted:9862 
+INFO:root:USC00338534.txt file process started at: 00:11:08 
+INFO:root:USC00338534.txt file process ended at: 00:11:12, Records Inserted:10469 
+INFO:root:USC00338552.txt file process started at: 00:11:12 
+INFO:root:USC00338552.txt file process ended at: 00:11:16, Records Inserted:10896 
+INFO:root:USC00338769.txt file process started at: 00:11:16 
+INFO:root:USC00338769.txt file process ended at: 00:11:20, Records Inserted:10957 
+INFO:root:USC00338822.txt file process started at: 00:11:20 
+INFO:root:USC00338822.txt file process ended at: 00:11:24, Records Inserted:10957 
+INFO:root:USC00338830.txt file process started at: 00:11:24 
+INFO:root:USC00338830.txt file process ended at: 00:11:28, Records Inserted:10957 
+INFO:root:USC00339312.txt file process started at: 00:11:28 
+INFO:root:USC00339312.txt file process ended at: 00:11:31, Records Inserted:10957 
+INFO:root:Weather data Ingestion ended at : 00:11:31 , Total Records Inserted:1729957
+INFO:root:Statistics data Ingestion started at : 00:11:31
+INFO:root:Records Loaded to statistics table : 4820
+INFO:root:Statistics data ingestion ended at: 00:11:32, Records Inserted:4820 
