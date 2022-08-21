@@ -64,3 +64,9 @@ API Response Screenshots with Pagination and Filtering on Station ID and Date
 ![image](https://user-images.githubusercontent.com/104686047/184681261-2a205260-9fa3-48c6-b78a-9fbc225fa837.png)
 
 
+Tests located at /assignment/tests/ingest/
+Test Results located at Corteva-Assignment/ingest_results.html
+
+![image](https://user-images.githubusercontent.com/104686047/185773797-98a5f4e8-ae62-45d5-a1dc-cc95eb09ed20.png)
+
+
